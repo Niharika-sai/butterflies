@@ -5,3 +5,4 @@ BEGIN
     SET SUM =N1+N2;
 RETURN SUM;
 END
+----print sum of values----------------
